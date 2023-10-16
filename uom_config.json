@@ -1,0 +1,40 @@
+{
+  "volume_conversion_rates": {
+    "cubic metre": 0.001,
+    "%Vol/hl":0.01,
+    "litre": 1,
+    "kl":0.001
+  },
+  "mass_conversion_rates": {
+    "kg": 1,
+    "mt": 0.001,
+    "gram": 1000,
+    "troy ounce":0.0311035,
+    "short ton":0.0011023113109244,
+    "lb":2.20462
+  },
+  "area_conversion_rates": {
+    "square meter":1,
+    "acre":0.0002471053815
+  },
+  "energy_conversion_rates":{
+    "kwh":1,
+    "mwh":0.001
+  },
+  "days_conversion":{
+     "month":1,
+     "annum":12
+  },
+  "unit_conversion_rates": {
+    "dozen": 1,
+    "barrel": 1,
+    "gj":1,
+    "1000 Cans":1,
+    "MMBtu":1,
+    "%":1,
+  "1000 Board Feet":1
+
+  }
+}
+
+
